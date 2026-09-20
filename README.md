@@ -1,4 +1,4 @@
-# DeepSeek Harness Windows 安装包
+# DeepSeek Harness Easy-Setup
 
 把 @deepseek-ai/dsh（DeepSeek Harness 的命令行程序）和一份便携版 Node.js 运行时打成一个单文件安装程序。
 装完之后目标机器不需要预装 Node、npm 或任何依赖，双击快捷方式就能跑。
